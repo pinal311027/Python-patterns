@@ -26,10 +26,8 @@ Whether you're a beginner learning Python or preparing for coding interviews, th
 * 🕳️ Hollow Patterns
 * ❌ X Pattern
 * ➕ Plus Pattern
-* ⏳ Hourglass Pattern
 * 📈 Pascal's Triangle
 * 0️⃣1️⃣ Binary Pattern
-* 🔀 Zig-Zag Pattern
 
 ---
 
